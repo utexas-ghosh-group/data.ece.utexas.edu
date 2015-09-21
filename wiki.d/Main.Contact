@@ -1,0 +1,21 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+author=
+charset=ISO-8859-1
+csum=
+ctime=1430942186
+host=146.6.148.120
+name=Main.Contact
+rev=3
+targets=
+text=!! Contact%0a%0a!!!! [[ http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html | Prof. Sanjay Shakkottai]], Director, WNCG%0a!!!! [[ http://hercules.ece.utexas.edu/ghosh/ | Prof. Joydeep Ghosh]], Lead, Data Science & Engineering Initiative%0a!!!! [[ http://wncg.org/people/staff | WNCG Staff]]%0a!!! Information for Potential  [[ http://wncg.org/affiliates | Industrial Affiliates]]%0a%0a
+time=1431118098
+author:1431118098=
+diff:1431118098:1430942350:=3c3%0a%3c !!!! [[ http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html | Prof. Sanjay Shakkottai]], Director, WNCG%0a---%0a> !!!! [[ http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html | Prof. Sanjay Shakkotai]], Director, WNCG%0a
+host:1431118098=146.6.148.120
+author:1430942350=
+diff:1430942350:1430942186:=8d7%0a%3c  %0a\ No newline at end of file%0a
+host:1430942350=129.116.100.244
+author:1430942186=
+diff:1430942186:1430942186:=1,8d0%0a%3c !! Contact%0a%3c %0a%3c !!!! [[ http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html | Prof. Sanjay Shakkotai]], Director, WNCG%0a%3c !!!! [[ http://hercules.ece.utexas.edu/ghosh/ | Prof. Joydeep Ghosh]], Lead, Data Science & Engineering Initiative%0a%3c !!!! [[ http://wncg.org/people/staff | WNCG Staff]]%0a%3c !!! Information for Potential  [[ http://wncg.org/affiliates | Industrial Affiliates]]%0a%3c %0a%3c  %0a\ No newline at end of file%0a
+host:1430942186=129.116.100.244

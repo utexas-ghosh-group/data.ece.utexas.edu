@@ -1,0 +1,18 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+author=
+charset=ISO-8859-1
+csum=
+ctime=1429641601
+host=70.113.21.22
+name=Main.AboutWNCG
+rev=2
+targets=
+text=!! About [[http://wncg.org | WNCG]]%0a%0aThe [[http://wncg.org | Wireless Networking and Communications Group (WNCG) ]] is an interdisciplinary center for research and education at The University of Texas at Austin with an emphasis on industrial relevance.%0a%0aFounded in 2002, the group includes twenty faculty from the Departments of Electrical and Computer Engineering, Aerospace Engineering, Mathematics, and Computer Sciences. WNCG currently has over 130 graduate and undergraduate students as well as an ever-changing number of research scientists, postdoctoral fellows and industry visitors.%0a%0a!!! Mission%0a%0aThe mission of the WNCG is to create a collaborative environment that supports research, provides highly relevant education and opportunities, promotes technical innovation, imagination and entrepreneurship in wireless networking, communications and data sciences.%0a%0a!!! Industrial Collaborations%0a%0aWNCG has an exceptional track record of fostering collaborations with industry leaders through the Industrial Affiliates Program. Our Industrial Affiliates include National Instruments, Samsung, AT&T, Cisco, Commscope, Qualcomm, Yokogawa, Crown Castle, Huawei and the United States Department of Defense.%0a%0aTo find out how your company can become involved with our Industrial Affiliates Program, [[http://wncg.org/affiliates/join | click here]].%0a%0a
+time=1429759284
+author:1429759284=
+diff:1429759284:1429641601:=1,3c1,3%0a%3c !! About [[http://wncg.org | WNCG]]%0a%3c %0a%3c The [[http://wncg.org | Wireless Networking and Communications Group (WNCG) ]] is an interdisciplinary center for research and education at The University of Texas at Austin with an emphasis on industrial relevance.%0a---%0a> !! About WNCG%0a> %0a> The Wireless Networking and Communications Group (WNCG) is an interdisciplinary center for research and education at The University of Texas at Austin with an emphasis on industrial relevance.%0a
+host:1429759284=70.113.21.22
+author:1429641601=
+diff:1429641601:1429641601:=1,16d0%0a%3c !! About WNCG%0a%3c %0a%3c The Wireless Networking and Communications Group (WNCG) is an interdisciplinary center for research and education at The University of Texas at Austin with an emphasis on industrial relevance.%0a%3c %0a%3c Founded in 2002, the group includes twenty faculty from the Departments of Electrical and Computer Engineering, Aerospace Engineering, Mathematics, and Computer Sciences. WNCG currently has over 130 graduate and undergraduate students as well as an ever-changing number of research scientists, postdoctoral fellows and industry visitors.%0a%3c %0a%3c !!! Mission%0a%3c %0a%3c The mission of the WNCG is to create a collaborative environment that supports research, provides highly relevant education and opportunities, promotes technical innovation, imagination and entrepreneurship in wireless networking, communications and data sciences.%0a%3c %0a%3c !!! Industrial Collaborations%0a%3c %0a%3c WNCG has an exceptional track record of fostering collaborations with industry leaders through the Industrial Affiliates Program. Our Industrial Affiliates include National Instruments, Samsung, AT&T, Cisco, Commscope, Qualcomm, Yokogawa, Crown Castle, Huawei and the United States Department of Defense.%0a%3c %0a%3c To find out how your company can become involved with our Industrial Affiliates Program, [[http://wncg.org/affiliates/join | click here]].%0a%3c %0a
+host:1429641601=128.62.51.234

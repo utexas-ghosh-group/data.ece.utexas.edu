@@ -1,0 +1,24 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+author=
+charset=ISO-8859-1
+csum=
+ctime=1429208865
+host=146.6.148.120
+name=Main.Students
+rev=4
+targets=
+text=!! Students%0a%0aThe Data Science & Engineering initiative currently involves over 30 graduate students within WNCG. The listed faculty members also supervise several students from other areas of ECE, as well as from other departments at UT such as Computer Sciences, Statistical and Data Sciences and Biomedical Engineering.%0a%0aRecent graduates are working at companies such as Google, Yahoo, Qualcomm, Facebook and Microsoft Research, or serving in faculty positions at top universities such as Illinois-Urbana (CS), Cornell (OR), Emory (CS), Minnesota (CS).%0a%0aFor listing of individual students, please see the faculty pages.
+time=1431118085
+author:1431118085=
+diff:1431118085:1429631561:=5c5%0a%3c Recent graduates are working at companies such as Google, Yahoo, Qualcomm, Facebook and Microsoft Research, or serving in faculty positions at top universities such as Illinois-Urbana (CS), Cornell (OR), Emory (CS), Minnesota (CS).%0a---%0a> Recent graduates are working at companies such as Google, Yahoo, Qualcomm, Facebook and Microsoft Research, or serving in faculty positions at top universities such as Illinois-Urbana (CS), Cornell (OR), Emory (CS), Minnesota (CS) ADD MORE.%0a
+host:1431118085=146.6.148.120
+author:1429631561=
+diff:1429631561:1429212701:=1,7c1,8%0a%3c !! Students%0a%3c %0a%3c The Data Science & Engineering initiative currently involves over 30 graduate students within WNCG. The listed faculty members also supervise several students from other areas of ECE, as well as from other departments at UT such as Computer Sciences, Statistical and Data Sciences and Biomedical Engineering.%0a%3c %0a%3c Recent graduates are working at companies such as Google, Yahoo, Qualcomm, Facebook and Microsoft Research, or serving in faculty positions at top universities such as Illinois-Urbana (CS), Cornell (OR), Emory (CS), Minnesota (CS) ADD MORE.%0a%3c %0a%3c For listing of individual students, please see the faculty pages.%0a\ No newline at end of file%0a---%0a> ! Student%0a> Description%0a> %0a> ! Student%0a> Description%0a> %0a> ! Student%0a> Description%0a\ No newline at end of file%0a
+host:1429631561=129.116.100.244
+author:1429212701=
+diff:1429212701:1429208865:=1c1%0a%3c ! Student%0a---%0a> !! Student%0a4c4%0a%3c ! Student%0a---%0a> !! Student%0a7c7%0a%3c ! Student%0a---%0a> !! Student%0a
+host:1429212701=128.62.51.186
+author:1429208865=
+diff:1429208865:1429208865:=1,8d0%0a%3c !! Student%0a%3c Description%0a%3c %0a%3c !! Student%0a%3c Description%0a%3c %0a%3c !! Student%0a%3c Description%0a\ No newline at end of file%0a
+host:1429208865=128.62.51.186

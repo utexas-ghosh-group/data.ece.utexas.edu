@@ -1,0 +1,21 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+author=
+charset=ISO-8859-1
+csum=
+ctime=1429595267
+host=70.113.21.22
+name=Main.Seminars
+rev=3
+targets=
+text=Several seminars in WNCG are related to Data Sciences & Engineering%0a http://wncg.org/events/seminars%0a%0aSDS and FAI also active seminar series that are often of interest to our students.%0a https://stat.utexas.edu/training/seminar-series  %0a http://www.cs.utexas.edu/~ai-lab/fai/%0a
+time=1429595304
+author:1429595304=
+diff:1429595304:1429595278:=2,3c2,3%0a%3c  http://wncg.org/events/seminars%0a%3c %0a---%0a> http://wncg.org/events/seminars%0a> %0a5c5%0a%3c  https://stat.utexas.edu/training/seminar-series  %0a---%0a> https://stat.utexas.edu/training/seminar-series  %0a
+host:1429595304=70.113.21.22
+author:1429595278=
+diff:1429595278:1429595267:=5,6c5%0a%3c https://stat.utexas.edu/training/seminar-series  %0a%3c  http://www.cs.utexas.edu/~ai-lab/fai/%0a---%0a> https://stat.utexas.edu/training/seminar-series   http://www.cs.utexas.edu/~ai-lab/fai/%0a
+host:1429595278=70.113.21.22
+author:1429595267=
+diff:1429595267:1429595267:=1,5d0%0a%3c Several seminars in WNCG are related to Data Sciences & Engineering%0a%3c http://wncg.org/events/seminars%0a%3c %0a%3c SDS and FAI also active seminar series that are often of interest to our students.%0a%3c https://stat.utexas.edu/training/seminar-series   http://www.cs.utexas.edu/~ai-lab/fai/%0a
+host:1429595267=70.113.21.22

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+author=
+charset=ISO-8859-1
+csum=
+ctime=1430942489
+host=129.116.100.244
+name=Main.IndustryAffiliates
+rev=1
+targets=
+text=Please see%0a!!  [[ http://wncg.org/affiliates | Industrial Affiliates]]%0afor list of current WNCG Affiliates and pointers for Potential Partners.
+time=1430942489
+author:1430942489=
+diff:1430942489:1430942489:=1,3d0%0a%3c Please see%0a%3c !!  [[ http://wncg.org/affiliates | Industrial Affiliates]]%0a%3c for list of current WNCG Affiliates and pointers for Potential Partners.%0a\ No newline at end of file%0a
+host:1430942489=129.116.100.244

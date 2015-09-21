@@ -1,0 +1,21 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+author=
+charset=ISO-8859-1
+csum=
+ctime=1429582180
+host=67.78.74.156
+name=Faculty.SriramVishwanath
+rev=3
+targets=
+text=!! [[http://sriram.utlinc.org/doku.php | Sriram Vishwanath]] %25rfloat%25 http://wncg.org/sites/wncg.org/files/styles/faculty_portrait_-_small/public/vishwanath.jpg%0a%0a!!!! Professor%0a!!!! Electrical and Computer Engineering%0a%0aDr. Sriram Vishwanath is a Professor in the Electrical and Computer Engineering department at The University of Texas at Austin.%0a%0aDr. Vishwanath received his B.Tech. from the Indian Institute of Technology (IIT), Madras, M.S. from CalTech and his Ph.D. from Stanford University, all in electrical engineering. His research interests include information theory, wireless communications and coding theory. His industry experience includes work at the National Semiconductor Corporation, CA and at the Lucent Bell labs, NJ. He has won a NSF CAREER Award and the 2005 IEEE Joint IT/Comsoc Best Paper Award.%0a%0a'''Research Interests: '''%0a* Information theory%0a* Wireless communications%0a* Coding theory
+time=1430175143
+author:1430175143=
+diff:1430175143:1429583462:=3,4c3,4%0a%3c !!!! Professor%0a%3c !!!! Electrical and Computer Engineering%0a---%0a> !!! Professor%0a> !!! Electrical and Computer Engineering%0a
+host:1430175143=67.78.74.156
+author:1429583462=
+diff:1429583462:1429582180:=1c1%0a%3c !! [[http://sriram.utlinc.org/doku.php | Sriram Vishwanath]] %25rfloat%25 http://wncg.org/sites/wncg.org/files/styles/faculty_portrait_-_small/public/vishwanath.jpg%0a---%0a> !! Sriram Vishwanath %25rfloat%25 http://wncg.org/sites/wncg.org/files/styles/faculty_portrait_-_small/public/vishwanath.jpg%0a
+host:1429583462=67.78.74.156
+author:1429582180=
+diff:1429582180:1429582180:=1,13d0%0a%3c !! Sriram Vishwanath %25rfloat%25 http://wncg.org/sites/wncg.org/files/styles/faculty_portrait_-_small/public/vishwanath.jpg%0a%3c %0a%3c !!! Professor%0a%3c !!! Electrical and Computer Engineering%0a%3c %0a%3c Dr. Sriram Vishwanath is a Professor in the Electrical and Computer Engineering department at The University of Texas at Austin.%0a%3c %0a%3c Dr. Vishwanath received his B.Tech. from the Indian Institute of Technology (IIT), Madras, M.S. from CalTech and his Ph.D. from Stanford University, all in electrical engineering. His research interests include information theory, wireless communications and coding theory. His industry experience includes work at the National Semiconductor Corporation, CA and at the Lucent Bell labs, NJ. He has won a NSF CAREER Award and the 2005 IEEE Joint IT/Comsoc Best Paper Award.%0a%3c %0a%3c '''Research Interests: '''%0a%3c * Information theory%0a%3c * Wireless communications%0a%3c * Coding theory%0a\ No newline at end of file%0a
+host:1429582180=67.78.74.156

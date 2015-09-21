@@ -1,0 +1,18 @@
+version=pmwiki-2.2.74 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+author=
+charset=ISO-8859-1
+csum=
+ctime=1429594607
+host=146.6.148.120
+name=Faculty.OtherAssociatedFaculty
+rev=2
+targets=
+text=The research of several other WNCG faculty, including Alan Bovik, Brian Evans, Robert Heath and Ahmed Tewfik also involve learning from and modeling  complex data arising from engineering applications.%0a%0aThe are also several faculty associated with the Department of Statistics and Data Sciences with expertise in related areas; please see https://stat.utexas.edu/ for a detailed listing%0a
+time=1431118199
+author:1431118199=
+diff:1431118199:1429594607:=1c1%0a%3c The research of several other WNCG faculty, including Alan Bovik, Brian Evans, Robert Heath and Ahmed Tewfik also involve learning from and modeling  complex data arising from engineering applications.%0a---%0a> The research of several other WNCG faculty, including Alan Bovik, Brian Evans, Robert Heath, Evdokia Nikolova and Ahmed Tewfik also involve learning from and modeling  complex data arising from engineering applications.%0a
+host:1431118199=146.6.148.120
+author:1429594607=
+diff:1429594607:1429594607:=1,3d0%0a%3c The research of several other WNCG faculty, including Alan Bovik, Brian Evans, Robert Heath, Evdokia Nikolova and Ahmed Tewfik also involve learning from and modeling  complex data arising from engineering applications.%0a%3c %0a%3c The are also several faculty associated with the Department of Statistics and Data Sciences with expertise in related areas; please see https://stat.utexas.edu/ for a detailed listing%0a
+host:1429594607=70.113.21.22
